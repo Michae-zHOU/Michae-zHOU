@@ -16,6 +16,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: Michae-zHOU/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.BADGE_SECRET }}
         with:
           USERNAME: ${{ github.repository_owner }}
