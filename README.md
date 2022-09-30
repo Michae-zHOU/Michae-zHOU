@@ -1,4 +1,5 @@
 ### Hi there 👋
+--------------------------------------------------------------------------------------------------------
 
 My name is Michael Zhou. Welcome to my Github page.
 
@@ -13,6 +14,8 @@ My name is Michael Zhou. Welcome to my Github page.
 - ⌨️ [Official Link](https://www.melonnetwork.io)
 - 😎 Sign up with early access to Melon Wallet.
 
+
+--------------------------------------------------------------------------------------------------------
 
 [![](https://raw.githubusercontent.com/Michae-zHOU/Michae-zHOU/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/Michae-zHOU/Michae-zHOU)
 [![](https://raw.githubusercontent.com/Michae-zHOU/Michae-zHOU/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/Michae-zHOU/Michae-zHOU) [![](https://raw.githubusercontent.com/Michae-zHOU/Michae-zHOU/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/Michae-zHOU/Michae-zHOU)
