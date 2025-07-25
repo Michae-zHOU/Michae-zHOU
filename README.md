@@ -2,8 +2,8 @@
 
 My name is Michael Zhou. Welcome to my Github page.
 
-- 🔭 I’m currently working at Google as a software engineer.
-- 🦸 I’m the founder of [Virtual Dynamic Labs](https://www.virtualdynamiclabs.xyz) and [Melon Network Inc](https://www.melonnetwork.io). 
+- 🔭 I’m a Senior Software Engineer at Google.
+- 🦸 I’m X-founders for multiple startups.
 
 --------------------------------------------------------------------------------------------------------
 
